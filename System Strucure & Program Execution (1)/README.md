@@ -44,8 +44,8 @@ CPU는 하나의 IR을 실행하고 끝나면 interrupt line을 체크한다
 
 만약 timer가 interrupt line을 보내면 cpu는 하던일을 멈추고 cpu의 제어권이 사용자 프로그램에서 운영체제로 넘어간다.
 
-![Untitled](System%20Str%2024b7d/Untitled.png)
 
+![Untitled](https://user-images.githubusercontent.com/48712198/156771754-14fabb25-fda6-407d-aa86-8758b3250f3b.png)
 **운영체제가 cpu를 얻게되면 다음 프로그램에 timer를 세팅하고 cpu를 넘겨준다.**
 
 **사용자 프로그램은 직접 I/O를 접근 불가**. 보안상의 이유로
