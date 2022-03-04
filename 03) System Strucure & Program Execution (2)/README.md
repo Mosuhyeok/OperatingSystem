@@ -62,7 +62,7 @@ cpu말고 메모리를 접근 할 수 있는 장치
 
 **저장장치 계층 구조**
 
-![Untitled](System%20Str%20bd451/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/48712198/156772769-e05ff5c9-2eb0-4594-a042-7259f5d31378.png)
 
 cpu안에 레지스터, 캐쉬메모리
 
@@ -90,7 +90,7 @@ Virtual Memory에 올라온다.
 
 이런 주소 공간은 각 프로세스가 가지고 있으며 구성공간은 아래와 같다.
 
-![Untitled](System%20Str%20bd451/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/48712198/156772816-920f7a44-4ee9-4b7f-9185-17cfdfb7e365.png)
 
 코드 데이터 스택으로 이루어져있으며
 
